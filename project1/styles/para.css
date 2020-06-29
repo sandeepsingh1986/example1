@@ -1,0 +1,68 @@
+@charset "UTF-8";
+body {
+	background-color:white;
+}
+
+h1 {
+	font-family:verdana;
+	font-size:200%;
+	color:red;
+	padding:30px;
+}
+
+/*
+p {
+	font-family:verdana;
+	font-size:300%;
+	border:4px solid tomato;
+	padding:90px;
+	margin:20px;
+	color:magenta;
+}
+*/
+img {
+	width:30%;
+	height:30%;
+}
+
+#cl
+	 {text-align: center;
+	  padding:10px;}
+
+ .daisy
+	 {
+		 font-family:verdana;
+		 font-size:300%;
+		 color:red;
+	 }
+	 
+
+  .main
+	 {
+		 text-align:center;
+	 }
+	 
+.city
+	 {
+		 border-color: maroon;
+		 padding:23px;
+		 margin:34px;
+	 }
+	 
+#Myheader
+	 {
+		 font-size:400%;
+		 text-align:center;
+	 }
+	 
+	 
+
+	 #demo{
+		 text-align:center;
+	 }	 
+	
+	 span.note {
+		 color:red;
+		 font-family:verdana;
+		 font-size:100%;
+	 }

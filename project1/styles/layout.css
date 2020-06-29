@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+.header {
+	
+	align-content:center;
+	background-color:white;
+	text-align: center;
+	font-size:50px;
+	text-decoration: none;
+	padding-left:30px;
+	color:black;
+		
+}
+
+.logo {
+	text-align:left;
+	color:black;
+	font-size:70px;
+	background-color:white;
+	font-family:amethysta;
+		
+}
+
+/*
+span {
+	
+	color:green;
+    font-size:70px;
+	background-color:white;
+}
+*/
+
+footer{
+	
+	align-content:center;
+	background-color:black;
+	text-align:center;
+	font-size:35px;
+	text-decoration:none;
+	padding-left:30px;
+	text-color:red;
+		
+	
+}
+
+.logoplus {
+	text-align:right;
+	width:45px;
+	height:45px;
+}
